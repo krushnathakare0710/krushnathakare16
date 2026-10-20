@@ -35,25 +35,3 @@ AI & Data Science Student | Machine Learning | PyTorch | DSA
 
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=krushnathakare16&show_icons=true&theme=tokyonight"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnathakare16&layout=compact&theme=tokyonight"/>
-
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnathakare16&theme=tokyonight"/>
-
-</p>
-
