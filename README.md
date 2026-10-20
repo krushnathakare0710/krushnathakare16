@@ -1,4 +1,3 @@
-# krushnathakare16-krushnathakare16
 <h1 align="center">Hi 👋, I'm Krushna..!</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ AI & Data Science Student | Machine Learning | PyTorch | DSA
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=krushnathakare16&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -43,10 +42,10 @@ AI & Data Science Student | Machine Learning | PyTorch | DSA
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=krushnathakare16&show_icons=true&theme=tokyonight"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnathakare16&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -54,6 +53,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnathakare16&theme=tokyonight"/>
 
 </p>
+
