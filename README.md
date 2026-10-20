@@ -4,10 +4,6 @@
 AI & Data Science Student | Machine Learning | PyTorch | DSA
 </h3>
 
-<p align="center">
-  <img src="https://views.igorkowalczyk.dev/api/badge/krushnathakare16?style=flat&color=0e75b6" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
