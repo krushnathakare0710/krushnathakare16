@@ -5,7 +5,7 @@ AI & Data Science Student | Machine Learning | PyTorch | DSA
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krushnathakare16&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/krushnathakare16?style=flat&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
